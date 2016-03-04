@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     /**
-     *
+     * 生命周期的开始方法
      */
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
 }
