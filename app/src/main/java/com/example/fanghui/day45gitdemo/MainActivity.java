@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
     /**
      * 生命周期的开始方法
-     * menggang20202020
+     * menggang
      */
     @Override
     protected void onStart() {
